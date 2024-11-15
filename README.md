@@ -49,8 +49,6 @@ I’d love to collaborate on:
 
 ## 📫 How to Reach Me
 - **Email:** [n.ahmadzai@outlook.fr](mailto:n.ahmadzai@outlook.fr)
-- **Phone:** +33 7 44 98 72 70
-- **Location:** Ecquevilly, France
 
 ## 😄 Pronouns
 He/Him
