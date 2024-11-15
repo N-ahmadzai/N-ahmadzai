@@ -1,4 +1,4 @@
-- # 👋 Hi, I’m Niamatullah Ahmadzai
+- # 👋 Hi, I’m Ahmadzai
 
 Welcome to my GitHub profile! I’m a passionate Front-End Developer and Web Instructor with a solid foundation in HTML, CSS, JavaScript, and WordPress, along with experience in training others in web technologies. Here’s a bit more about me:
 
